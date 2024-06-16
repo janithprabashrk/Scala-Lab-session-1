@@ -28,3 +28,7 @@ WARNING: Unmatched cancel notification for request id 7
 2024.06.16 12:05:14 INFO  time: indexed workspace in 2.92s
 2024.06.16 12:06:55 INFO  compiling scala-lab-session-1_f4dd477a3a (1 scala source)
 2024.06.16 12:06:55 INFO  time: compiled Scala-Lab-session-1_f4dd477a3a in 0.47s
+2024.06.16 12:21:52 INFO  Shutting down server
+2024.06.16 12:21:52 INFO  shutting down Metals
+2024.06.16 12:21:52 INFO  Shut down connection with build server.
+2024.06.16 12:21:52 INFO  Exiting server
